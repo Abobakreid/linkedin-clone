@@ -1,0 +1,35 @@
+@import "@fontsource/roboto/300.css";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/500.css";
+@import "@fontsource/roboto/700.css";
+
+body {
+  background-color: #eee !important;
+}
+
+.img {
+  display: inline-block;
+  width: 100px;
+}
+
+.css-aym9vq-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #b7b4b4 !important;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+  background-color: gray !important;
+}
+
+.css-1wsk7bs-MuiButtonBase-root-MuiButton-root span {
+  font-size: 0.875rem !important;
+}
+
+.vid > div {
+  width: 100% !important;
+  max-height: 340px !important;
+}
+
+.homeVid > div {
+  width: 100% !important;
+  max-height: 340px !important;
+}
